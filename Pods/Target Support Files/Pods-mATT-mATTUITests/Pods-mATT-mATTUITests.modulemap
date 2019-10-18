@@ -1,0 +1,6 @@
+framework module Pods_mATT_mATTUITests {
+  umbrella header "Pods-mATT-mATTUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
